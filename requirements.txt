@@ -1,0 +1,9 @@
+pandas
+numpy
+pymongo
+scikit-learn
+google-generativeai
+tqdm
+python-dotenv
+bson
+aiohttp
